@@ -1,0 +1,4 @@
+rootProject.name = 'IgniteSandbox'
+include 'ignite2'
+include 'ignite3'
+
